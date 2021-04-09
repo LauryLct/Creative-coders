@@ -16,7 +16,7 @@ export default {
 <style scoped>
 h1 {
   font-weight: bold;
-  color: #276678;
+  color: #3A4750;
   font-size: 7vh;
 }
 #first-title {
@@ -30,7 +30,7 @@ h1 {
   padding-left: 10%;
   font-size: 40px;
   padding-top: 5%;
-  color: #276678;
+  color: #3A4750;
 }
 
 .header {

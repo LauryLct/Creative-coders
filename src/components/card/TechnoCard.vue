@@ -19,7 +19,7 @@ export default {
 .techno-card {
   padding: 10px;
   margin: 30px 25%;
-  background-color: #1687A7;
+  background-color: #2185D5;
   color: white;
   font-weight: 700;
   border-radius: 10px;

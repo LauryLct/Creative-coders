@@ -43,13 +43,13 @@ export default {
 }
 
 .devis {
-  background-color: #1687A7;
+  background-color: #2185D5;
   border-radius: 10px;
   padding: 10px;
   margin: 20px 15%;
 }
 .devis:hover {
-  background-color: #aaaaaa;
+  background-color: #3A4750;
 }
 a {
   color: white;
