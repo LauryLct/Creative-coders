@@ -41,4 +41,8 @@ export default {
 .container {
   text-align: center;
 }
+h2 {
+  padding: 20px;
+  margin: 20px;
+}
 </style>

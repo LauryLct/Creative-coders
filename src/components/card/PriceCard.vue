@@ -1,5 +1,5 @@
 <template>
-  <div class="card price-card m-5">
+  <div class="card price-card m-4">
     <div class="card-body">
       <h2 class="card-title p-3 mb-4">{{ title }}</h2>
       <div class="border-bottom border-secondary pb-4">
@@ -9,13 +9,14 @@
         <p class="card-text">{{forthLine}} </p>
         <p class="card-text">{{fifthLine}} </p>
         <p class="card-text">{{sixthLine}} </p>
+        <p class="card-text">{{seventhLine}} </p>
 
       </div>
 
       <h2 id="price"> {{price}} </h2>
 
       <div class="devis">
-        <a href="">demandé un devis</a>
+        <a href="mailto:contact@creative-coders.fr">{{button}}</a>
       </div>
     </div>
   </div>
@@ -32,7 +33,9 @@ export default {
     forthLine: String,
     fifthLine: String,
     sixthLine: String,
-    price: String
+    seventhLine: String,
+    price: String,
+    button: String,
   }
 }
 </script>

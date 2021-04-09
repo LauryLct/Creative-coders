@@ -26,6 +26,5 @@ p {
 }
 img {
   width: 40px;
-  fill: #e70000 !important;
 }
 </style>

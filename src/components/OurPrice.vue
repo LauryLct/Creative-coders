@@ -7,23 +7,34 @@
           title='Site vitrine'
           firstLine="Codage main"
           secondLine="Conception graphique personnalisée"
-          thirdLine="Acquisition nom de domaine"
-          forthLine="E-mail au nom de l'entreprise"
-          fifthLine="Site responsive"
-          sixthLine="Mise en ligne du site"
-          price="A partir de 1500€"
+          thirdLine="Proposition de logo"
+          forthLine="Acquisition nom de domaine"
+          fifthLine="E-mail d'entreprise personnalisé"
+          sixthLine="Site responsive"
+          seventhLine="Mise en ligne du site"
+          price="À partir de 1500€"
+          button='Demande de devis'
           />
       </div>
       <div class="col sm-m-5">
         <PriceCard
-          title='Site vitrine'
+          title='Site e-commerce'
           firstLine="Codage main"
           secondLine="Conception graphique personnalisée"
-          thirdLine="Acquisition nom de domaine"
-          forthLine="E-mail au nom de l'entreprise"
-          fifthLine="Site responsive"
-          sixthLine="Mise en ligne du site"
-          price="A partir de 1800€"
+          thirdLine="Proposition de logo"
+          forthLine="Acquisition nom de domaine"
+          fifthLine="E-mail d'entreprise personnalisé"
+          sixthLine="Site responsive"
+          seventhLine="Mise en ligne du site"
+          price="À partir de 1800€"
+          button='Demande de devis'
+          />
+      </div>
+      <div class="col sm-m-5">
+        <PriceCard
+          title='Développement personnalisé ou maintenance'
+          price="À partir de 350€/jour"
+          button='Nous contacter'
           />
       </div>
     </div>
@@ -39,3 +50,6 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+</style>
