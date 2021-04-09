@@ -1,0 +1,67 @@
+<template>
+  <div class="card price-card m-5">
+    <div class="card-body">
+      <h2 class="card-title p-3 mb-4">{{ title }}</h2>
+      <div class="border-bottom border-secondary pb-4">
+        <p class="card-text">{{firstLine}} </p>
+        <p class="card-text">{{secondLine}} </p>
+        <p class="card-text">{{thirdLine}} </p>
+        <p class="card-text">{{forthLine}} </p>
+        <p class="card-text">{{fifthLine}} </p>
+        <p class="card-text">{{sixthLine}} </p>
+
+      </div>
+
+      <h2 id="price"> {{price}} </h2>
+
+      <div class="devis">
+        <a href="">demandé un devis</a>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'TechnoCard',
+  props: {
+    title: String,
+    firstLine: String,
+    secondLine: String,
+    thirdLine: String,
+    forthLine: String,
+    fifthLine: String,
+    sixthLine: String,
+    price: String
+  }
+}
+</script>
+
+<style scoped>
+.card {
+  background-color: #d3e0ea;
+}
+
+.devis {
+  background-color: #1687A7;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px 15%;
+}
+.devis:hover {
+  background-color: #aaaaaa;
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+#price {
+  margin: 40px 10px;
+}
+</style>
