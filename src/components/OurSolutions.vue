@@ -1,7 +1,7 @@
 <template>
   <div class="our-solutions row mt-5 mx-auto" id="1">
-    <div class="col-sm">
-      <h2 class="mt-3 pt-3" id="nos-solutions">Des solutions adaptées à vos besoins</h2>
+    <h2 class="m-3 p-3" id="nos-solutions">Des solutions adaptées à vos besoins</h2>
+    <div class="col-sm p-4">
       <p>
         Créative coders est une entreprise de création de site web, ayant pour
         objectifs d'accompagner les entreprises dans leur développement
@@ -13,8 +13,8 @@
         servives.
       </p>
     </div>
-    <div class="col-sm p-3 images-solutions">
-      <img src="../assets/test.svg" alt="test">
+    <div class="col-sm p-4 images-solutions">
+      <img class="responsive-image" src="../assets/test.svg" alt="test">
     </div>
   </div>
 </template>
@@ -27,10 +27,14 @@ export default {
 
 <style scoped>
 .images-solutions {
+  width: auto;
   text-align: center;
 }
 .our-solutions {
   margin-bottom: 80px;
+}
+.responsive-image {
+  width: inherit;
 }
 </style>
 
