@@ -7,6 +7,7 @@
     <OurPrice/>
     <ContactUs/>
   </div>
+  <Footer/>
 </template>
 
 <script>
@@ -16,6 +17,7 @@ import OurSolutions from './components/OurSolutions.vue'
 import OurTechnos from './components/OurTechnologies.vue'
 import OurPrice from './components/OurPrice.vue'
 import ContactUs from './components/ContactUs.vue'
+import Footer from './components/Footer.vue'
 
 export default {
   name: 'App',
@@ -25,7 +27,8 @@ export default {
     OurSolutions,
     OurTechnos,
     OurPrice,
-    ContactUs
+    ContactUs,
+    Footer
   }
 }
 </script>
