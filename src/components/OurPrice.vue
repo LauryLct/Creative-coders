@@ -1,6 +1,6 @@
 <template>
   <div class="our-price" id="3">
-    <h2>Nos tarifs</h2>
+    <h2 class="m-5 pt-5">Nos tarifs</h2>
     <div class="row">
       <div class="col sm-m-5">
         <PriceCard
@@ -52,4 +52,7 @@ export default {
 </script>
 
 <style scoped>
+.our-price {
+  margin: 4rem 0;
+}
 </style>

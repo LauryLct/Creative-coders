@@ -47,9 +47,13 @@ export default {
 </script>
 
 <style scoped>
+
 .navbar-creative {
   justify-content: space-between;
-  background: white;
+  background: #f3f3f3;
+  width: 100%;
+  position: fixed;
+  z-index: 10;
 }
 
 .navbar-creative .navbar-collapse {

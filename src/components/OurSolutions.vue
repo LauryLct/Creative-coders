@@ -1,7 +1,7 @@
 <template>
-  <div class="our-solutions row mt-5 mx-auto" id="1">
+  <div class="our-solutions row mx-auto" id="1">
     <div class="col-sm">
-      <h2 class="mt-3 pt-3" id="nos-solutions">Des solutions adaptées à vos besoins</h2>
+      <h2 class="mt-3 pt-5" id="nos-solutions">Des solutions adaptées à vos besoins</h2>
       <p>
         Créative coders est une entreprise de création de site web, ayant pour
         objectifs d'accompagner les entreprises dans leur développement
@@ -30,7 +30,7 @@ export default {
   text-align: center;
 }
 .our-solutions {
-  margin-bottom: 80px;
+  margin: 4rem 0;
 }
 </style>
 
