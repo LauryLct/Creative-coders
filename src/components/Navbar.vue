@@ -15,7 +15,7 @@
         <img src="../assets/close.svg" alt="close-logo">
 				<ul class="navbar-nav mr-auto">
           <li class="nav-item m-1">
-            <a class="nav-link" href="#1">Nos solution</a>
+            <a class="nav-link" href="#1">Nos solutions</a>
           </li>
           <li class="nav-item m-1">
             <a class="nav-link" href="#2">Nos technologies</a>
@@ -33,7 +33,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="#1">Nos solution</a>
+          <a class="nav-link" href="#1">Nos solutions</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#2">Nos technologies</a>
