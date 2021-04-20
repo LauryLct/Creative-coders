@@ -69,23 +69,19 @@ export default {
 img {
   width: 20px;
 }
-
 .navbar-creative {
   justify-content: space-between;
   background: white;
 }
-
 .navbar-creative .navbar-collapse {
   flex-grow: 0;
 }
-
 .navbar-creative .navbar-brand img {
   width: 40px;
 }
 .navbar-logo {
   padding-left: 10px;
 }
-
 .navbar {
   position: relative;
 }
@@ -97,6 +93,7 @@ img {
   right: 10%;
   background-color: #b4b2b2e1;
   border-radius: 10px;
+  z-index: 20;
 }
 
 </style>
