@@ -16,7 +16,7 @@
       <h2 id="price"> {{price}} </h2>
 
       <div class="devis">
-        <a href="mailto:laury@creative-coders.fr">{{button}}</a>
+        <a href="mailto:contact@creative-coders.fr">{{button}}</a>
       </div>
     </div>
   </div>

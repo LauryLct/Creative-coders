@@ -5,15 +5,30 @@
         <img src="../assets/logo1.svg" />
       </a>
     </div>
-    <button class="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent"
-            aria-expanded="false"
-            aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+    <div>
+      <button v-on:click='toggleShow'
+              class="navbar-toggler"
+              type="button">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div v-if='showMenu' v-on:click='toggleShow' class='menu'>
+        <img src="../assets/close.svg" alt="close-logo">
+				<ul class="navbar-nav mr-auto">
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#1">Nos solutions</a>
+          </li>
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#2">Nos technologies</a>
+          </li>
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#3">Nos tarifs</a>
+          </li>
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#4">Nous Contacter</a>
+          </li>
+      </ul>
+			</div>
+    </div>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
@@ -29,12 +44,6 @@
          <li class="nav-item">
           <a class="nav-link" href="#4">Nous Contacter</a>
         </li>
-        <li class="nav-item dropdown">
-          <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Action</a>
-            <a class="dropdown-item" href="#">Another action</a>
-          </div>
-        </li>
       </ul>
     </div>
   </div>
@@ -43,10 +52,24 @@
 <script>
 export default {
   name: 'Navbar',
+  data: function() {
+    return {
+      showMenu: false
+    }
+  },
+  methods: {
+    toggleShow: function() {
+      this.showMenu = !this.showMenu
+    }
+  }
 }
 </script>
 
 <style scoped>
+img {
+  width: 20px;
+}
+
 .navbar-creative {
   justify-content: space-between;
   background: white;
@@ -62,4 +85,18 @@ export default {
 .navbar-logo {
   padding-left: 10px;
 }
+
+.navbar {
+  position: relative;
+}
+.menu {
+  margin: 20px;
+  padding: 20px;
+  position:absolute;
+  top: 50%;
+  right: 10%;
+  background-color: #b4b2b2e1;
+  border-radius: 10px;
+}
+
 </style>
