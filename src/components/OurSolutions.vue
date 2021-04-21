@@ -1,17 +1,17 @@
 <template>
   <div class="our-solutions row mx-auto" id="1">
+    <h2 class="mt-3 pt-5" id="nos-solutions">Des solutions adaptées à vos besoins</h2>
     <div class="col-sm">
-      <h2 class="mt-3 pt-5" id="nos-solutions">Des solutions adaptées à vos besoins</h2>
 
       <p>
         Créative coders est une entreprise de création de site web, ayant pour
         objectifs d'accompagner les entreprises dans leur développement
         numérique.
-        Nos produits se veulent adaptable à vos besoins. Tous nos produits
-        sont parfaitement adapatables sur ordinateur, tablette et mobile.
+        Nos créations sont réalisés sur-mesures en fonction à vos besoins. Tous nos produits
+        sont parfaitement adaptables sur ordinateur, tablette et mobile.
         Créative coders met un point d’honneur à fournir des produits
-        spécifiques et corresponsdant a chaques entreprises passant par nos
-        servives.
+        spécifiques et correspondant à chaque entreprise passant par nos
+        services.
       </p>
     </div>
     <div class="col-sm p-4 images-solutions">

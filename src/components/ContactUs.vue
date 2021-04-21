@@ -9,7 +9,7 @@
     <div class="email p-4">
       <img src="../assets/1.svg" alt="email-logo">
       <p>E-mail:</p>
-      <a href="mailto:contact@creative-coders.fr">laury@creative-coders.fr</a>
+      <a href="mailto:laury@creative-coders.fr">laury@creative-coders.fr</a>
     </div>
   </div>
 </template>

@@ -8,8 +8,9 @@
                 </div>
                 <div class="col">
                     <h3>Contact</h3>
+                    <p>Laury Lecaut</p>
                     <a class="p-3" href="tel:+33672265043">(+33)672265043</a>
-                    <a href="mailto:contact@creative-coders.fr">contact@creative-coders.fr</a>
+                    <a href="mailto:laury@creative-coders.fr">laury@creative-coders.fr</a>
                 </div>
             </div>
 
