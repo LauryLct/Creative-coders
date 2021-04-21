@@ -12,7 +12,7 @@
           fifthLine="E-mail d'entreprise personnalisé"
           sixthLine="Site responsive"
           seventhLine="Mise en ligne du site"
-          price="À partir de 1500€"
+          price="À partir de 1500€ TTC"
           button='Demande de devis'
           />
       </div>
@@ -26,14 +26,14 @@
           fifthLine="E-mail d'entreprise personnalisé"
           sixthLine="Site responsive"
           seventhLine="Mise en ligne du site"
-          price="À partir de 1800€"
+          price="À partir de 1800€ TTC"
           button='Demande de devis'
           />
       </div>
       <div class="col sm-m-5">
         <PriceCard
           title='Développement personnalisé ou maintenance'
-          price="À partir de 350€/jour"
+          price="Tarif journalier de 350€/jour"
           button='Nous contacter'
           />
       </div>
