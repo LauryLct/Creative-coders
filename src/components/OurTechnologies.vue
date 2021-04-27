@@ -1,6 +1,6 @@
 <template>
-  <div class="our-technos" id="2">
-    <h2 class="m-5 pt-5">Nos technologies</h2>
+  <div class="our-technos mt-3" id="2">
+    <h2>Nos technologies</h2>
     <div class="row">
       <div class="col p-3 m-3">
         <h3>HTML</h3>
@@ -44,8 +44,8 @@
 </script>
 
 <style scoped>
-.our-technos {
-  margin: 4rem 0;
+h2{
+  padding-top: 6rem;
 }
 img {
   width: 150px;
