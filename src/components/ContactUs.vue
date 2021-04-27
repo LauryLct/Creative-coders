@@ -22,7 +22,7 @@ export default {
 
 <style scoped>
 h2 {
-  padding-top: 6rem;
+  padding: 6rem 0 6rem 0;
 }
 p {
   margin-bottom: O;

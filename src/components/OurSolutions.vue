@@ -39,7 +39,8 @@ export default {
   width: inherit;
 }
 h2 {
-  padding-top: 6rem;
+  padding: 6rem 0 6rem 0;
+
 }
 
 .responsive-image{
