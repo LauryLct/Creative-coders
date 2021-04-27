@@ -63,4 +63,9 @@ h1 {
 img {
   width: 40px;
 }
+@media (max-width: 767px) {
+  #first-title{
+    padding-top: 22%;
+  }
+}
 </style>

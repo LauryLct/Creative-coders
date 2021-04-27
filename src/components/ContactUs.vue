@@ -1,6 +1,6 @@
 <template>
-  <div class="contact-us mt-5" id="4">
-    <h2 class='m-5 pt-5'>Nous contacter</h2>
+  <div class="contact-us mt-3 mb-3" id="4">
+    <h2>Nous contacter</h2>
     <div class="phone p-4">
       <img src="../assets/phone.svg" alt="phone-logo">
       <p>Telephone:</p>
@@ -21,8 +21,8 @@ export default {
 </script>
 
 <style scoped>
-.contact-us {
-  margin: 4rem 0;
+h2 {
+  padding: 6rem 0 6rem 0;
 }
 p {
   margin-bottom: O;

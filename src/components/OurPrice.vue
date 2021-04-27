@@ -1,6 +1,6 @@
 <template>
-  <div class="our-price" id="3">
-    <h2 class="m-5 pt-5">Nos tarifs</h2>
+  <div class="our-price mt-3" id="3">
+    <h2>Nos tarifs</h2>
     <div class="row">
       <div class="col sm-m-5">
         <PriceCard
@@ -33,7 +33,7 @@
       <div class="col sm-m-5">
         <PriceCard
           title='Développement personnalisé ou maintenance'
-          price="Tarif journalier de 350€/jour"
+          price="Nous contacter pour plus d'informations"
           button='Nous contacter'
           />
       </div>
@@ -52,7 +52,7 @@ export default {
 </script>
 
 <style scoped>
-.our-price {
-  margin: 4rem 0;
+h2 {
+  padding: 6rem 0 6rem 0;
 }
 </style>

@@ -43,7 +43,7 @@ h1 {
 .header {
   position: relative;
   width: 100%;
-  height: 90vh;
+  height: 100vh;
   background-image: url('../assets/header.jpg');
   -webkit-background-size: cover;
 }

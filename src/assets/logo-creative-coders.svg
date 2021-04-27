@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="250mm"
+   height="250mm"
+   viewBox="0 0 250 250"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1433">
+      <stop
+         style="stop-color:#4167c1;stop-opacity:1;"
+         offset="0"
+         id="stop1429" />
+      <stop
+         style="stop-color:#4167c1;stop-opacity:0;"
+         offset="1"
+         id="stop1431" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient897"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop895" />
+    </linearGradient>
+    <rect
+       x="33.261905"
+       y="34.017857"
+       width="192.01191"
+       height="46.869048"
+       id="rect835" />
+    <rect
+       x="33.261906"
+       y="34.017857"
+       width="192.01192"
+       height="46.869049"
+       id="rect835-9" />
+    <rect
+       x="33.261906"
+       y="34.017857"
+       width="192.01192"
+       height="46.869049"
+       id="rect848" />
+    <linearGradient
+       xlink:href="#linearGradient1433"
+       id="linearGradient1435"
+       x1="1.4927025"
+       y1="126.24403"
+       x2="235.12041"
+       y2="126.24403"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <ellipse
+       style="opacity:0.76168224;mix-blend-mode:color;fill:#efefef;fill-opacity:1;stroke:url(#linearGradient1435);stroke-width:38.7911;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path883"
+       cx="118.30656"
+       cy="126.24403"
+       rx="97.418304"
+       ry="87.968895" />
+    <text
+       xml:space="preserve"
+       id="text833"
+       style="font-size:38.1px;line-height:1.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';white-space:pre;shape-inside:url(#rect835);fill:#00a4ff;fill-opacity:1;"
+       transform="matrix(1.4689559,0,0,1.755858,1.0437274,0.58242107)"><tspan
+         x="33.261719"
+         y="68.10473"><tspan
+           style="font-size:38.1px;fill:#00a4ff;fill-opacity:1">Creative</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text833-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.1px;line-height:1.25;font-family:Meta;-inkscape-font-specification:'Meta, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect835-9);fill:#474343;fill-opacity:1;"
+       transform="matrix(1.8247996,0,0,1.693064,-10.800426,52.463454)"><tspan
+         x="33.261719"
+         y="69.885549"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.1px;font-family:Meta;-inkscape-font-specification:'Meta, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#474343;fill-opacity:1">Coders</tspan></tspan></text>
+  </g>
+</svg>
