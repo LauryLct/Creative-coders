@@ -33,7 +33,7 @@
       <div class="col sm-m-5">
         <PriceCard
           title='Développement personnalisé ou maintenance'
-          price="Tarif journalier de 350€/jour"
+          price="Nous contacter pour plus d'informations"
           button='Nous contacter'
           />
       </div>
