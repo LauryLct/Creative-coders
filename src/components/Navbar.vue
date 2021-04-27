@@ -2,7 +2,7 @@
   <div class="navbar navbar-expand-sm navbar-light navbar-creative">
     <div class="navbar-logo">
       <a class="navbar-brand d-flex align-items-center mr-1" href="#">
-        <img src="../assets/logo1.svg" />
+        <img src="../assets/logo-creative-coders.svg" />
       </a>
     </div>
     <div>
@@ -69,6 +69,15 @@ export default {
 img {
   width: 20px;
 }
+
+.app{
+  position: relative;
+}
+.navbar{
+  position: fixed;
+  z-index: 20;
+  width: -webkit-fill-available;
+}
 .navbar-creative {
   justify-content: space-between;
   background: white;
@@ -77,13 +86,10 @@ img {
   flex-grow: 0;
 }
 .navbar-creative .navbar-brand img {
-  width: 40px;
+  width: 60px;
 }
 .navbar-logo {
   padding-left: 10px;
-}
-.navbar {
-  position: relative;
 }
 .menu {
   margin: 20px;
