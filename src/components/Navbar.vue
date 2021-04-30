@@ -76,7 +76,7 @@ img {
 .navbar{
   position: fixed;
   z-index: 20;
-  width: -webkit-fill-available;
+  width: 100%;
 }
 .navbar-creative {
   justify-content: space-between;
