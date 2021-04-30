@@ -15,8 +15,8 @@
           services.
         </p>
       </div>
-      <div class="col p-4 images-solutions">
-        <img class="responsive-image" src="../assets/test.svg" alt="test">
+      <div class="col images-solutions">
+        <img class="responsive-image" src="../assets/responsive-img.png" alt="test">
       </div>
 
     </div>
