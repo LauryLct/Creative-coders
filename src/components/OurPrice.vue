@@ -1,5 +1,5 @@
 <template>
-  <div class="our-price mt-3" id="3">
+  <div class="our-price mt-3" id="nos-tarifs">
     <h2>Nos tarifs</h2>
     <div class="row">
       <div class="col sm-m-5">
@@ -50,9 +50,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-h2 {
-  padding: 6rem 0 6rem 0;
-}
-</style>

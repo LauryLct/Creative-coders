@@ -1,5 +1,5 @@
 <template>
-  <div class="our-solutions mt-3" id="1">
+  <div class="our-solutions mt-3" id="nos-solutions">
     <div class="row">
       <h2 id="nos-solutions">Des solutions adaptées à vos besoins</h2>
       <div class="col">
@@ -37,10 +37,6 @@ export default {
 
 .responsive-image {
   width: inherit;
-}
-h2 {
-  padding: 6rem 0 6rem 0;
-
 }
 
 .responsive-image{

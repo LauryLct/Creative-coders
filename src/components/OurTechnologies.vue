@@ -1,5 +1,5 @@
 <template>
-  <div class="our-technos mt-3" id="2">
+  <div class="our-technos mt-3" id="nos-technologies">
     <h2>Nos technologies</h2>
     <div class="row">
       <div class="col p-3 m-3">
@@ -44,9 +44,6 @@
 </script>
 
 <style scoped>
-h2{
-  padding: 6rem 0 6rem 0;
-}
 img {
   width: 150px;
 }
