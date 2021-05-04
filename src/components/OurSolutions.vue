@@ -2,7 +2,7 @@
   <div class="our-solutions mt-3" id="nos-solutions">
     <div class="row">
       <h2 id="nos-solutions">Des solutions adaptées à vos besoins</h2>
-      <div class="col">
+      <div class="col-md">
 
         <p>
           Créative coders est une entreprise de création de site web, ayant pour
@@ -15,7 +15,7 @@
           services.
         </p>
       </div>
-      <div class="col images-solutions">
+      <div class="col-md images-solutions">
         <img class="responsive-image" src="../assets/responsive-img.png" alt="test">
       </div>
 
