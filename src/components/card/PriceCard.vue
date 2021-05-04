@@ -65,6 +65,7 @@ h2 {
 }
 
 #price {
-  margin: 40px 10px;
+  margin: 10px;
+  padding: 40px 10px;
 }
 </style>
