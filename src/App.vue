@@ -5,6 +5,7 @@
     <OurSolutions/>
     <OurTechnos/>
     <OurPrice/>
+    <WhoWeAre/>
     <ContactUs/>
   </div>
   <Footer/>
@@ -18,6 +19,7 @@ import OurTechnos from './components/OurTechnologies.vue'
 import OurPrice from './components/OurPrice.vue'
 import ContactUs from './components/ContactUs.vue'
 import Footer from './components/Footer.vue'
+import WhoWeAre from './components/WhoWeAre.vue'
 
 export default {
   name: 'App',
@@ -27,6 +29,7 @@ export default {
     OurSolutions,
     OurTechnos,
     OurPrice,
+    WhoWeAre,
     ContactUs,
     Footer
   }
@@ -44,8 +47,8 @@ export default {
 .container {
   text-align: center;
 }
-h2 {
-  padding: 20px;
-  margin: 20px;
+h2{
+  padding: 6rem 0 6rem 0;
+  font-size: 40px;
 }
 </style>

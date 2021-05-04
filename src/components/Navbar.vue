@@ -15,16 +15,19 @@
         <img src="../assets/close.svg" alt="close-logo">
 				<ul class="navbar-nav mr-auto">
           <li class="nav-item m-1">
-            <a class="nav-link" href="#1">Nos solutions</a>
+            <a class="nav-link" href="#nos-solutions">Nos solutions</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#2">Nos technologies</a>
+            <a class="nav-link" href="#nos-technologies">Nos technologies</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#3">Nos tarifs</a>
+            <a class="nav-link" href="#nos-tarifs">Nos tarifs</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#4">Nous Contacter</a>
+            <a class="nav-link" href="#a-propos">À propos</a>
+          </li>
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#nous-contacter">Nous Contacter</a>
           </li>
       </ul>
 			</div>
@@ -32,18 +35,21 @@
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="#1">Nos solutions</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#2">Nos technologies</a>
-        </li>
-         <li class="nav-item">
-          <a class="nav-link" href="#3">Nos tarifs</a>
-        </li>
-         <li class="nav-item">
-          <a class="nav-link" href="#4">Nous Contacter</a>
-        </li>
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#nos-solutions">Nos solutions</a>
+          </li>
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#nos-technologies">Nos technologies</a>
+          </li>
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#nos-tarifs">Nos tarifs</a>
+          </li>
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#a-propos">À propos</a>
+          </li>
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#nous-contacter">Nous Contacter</a>
+          </li>
       </ul>
     </div>
   </div>

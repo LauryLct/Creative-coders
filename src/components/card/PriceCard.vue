@@ -1,7 +1,7 @@
 <template>
   <div class="card price-card m-4">
     <div class="card-body">
-      <h2 class="card-title p-3 mb-4">{{ title }}</h2>
+      <h3 class="card-title p-3 mb-4">{{ title }}</h3>
       <div class="border-bottom border-secondary pb-4">
         <p class="card-text">{{firstLine}} </p>
         <p class="card-text">{{secondLine}} </p>
