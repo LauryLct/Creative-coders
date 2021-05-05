@@ -1,5 +1,5 @@
 <template>
-  <div class="contact-us mt-3 mb-3" id="nous-contacter">
+  <div class="contact-us mt-3 mb-3 mb-3 pb-3" id="nous-contacter">
     <h2>Nous contacter</h2>
     <div class="phone p-4">
       <img src="../assets/phone.svg" alt="phone-logo">
