@@ -6,7 +6,7 @@
                     <h3>A propos</h3>
                     <p>
                         Creative Coders est une entreprise titulaire d'un CAPE jusqu'au 13 avril 2022 maximum - 
-                        Esapce des Entrepreneurs<br>
+                        Espace des Entrepreneurs<br>
                         Siret 418 541 553 000 32<br>
                         Le TVA intracommunautaire FR 23 418 541 553<br>
                         Le code NAF, 8899B
