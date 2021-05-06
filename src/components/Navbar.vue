@@ -90,12 +90,13 @@ img {
 }
 .navbar-creative .navbar-collapse {
   flex-grow: 0;
+  margin-right: 10px;
 }
 .navbar-creative .navbar-brand img {
   width: 60px;
 }
 .navbar-logo {
-  padding-left: 10px;
+  padding-left: 20px;
 }
 .menu {
   margin: 20px;

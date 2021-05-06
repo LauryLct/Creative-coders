@@ -67,5 +67,9 @@ h2 {
 #price {
   margin: 10px;
   padding: 40px 10px;
+  font-size: 2rem;
+}
+.card-title {
+  font-weight: 700;
 }
 </style>
