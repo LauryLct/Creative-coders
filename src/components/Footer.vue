@@ -38,7 +38,7 @@ export default {
 <style scoped>
 .footer {
     background-color: #3A4750;
-    border-top: 5px solid #2185D5;
+    border-top: 3px solid #2185D5;
 }
 
 p {
