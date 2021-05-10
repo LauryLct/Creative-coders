@@ -4,11 +4,11 @@
     <h1 id="second-title">coders</h1>
     <p id="subtitle">Créateur de solutions web</p>
 
-    <div class="arrow-link">
-      <a href="#nos-solutions">
+    <a href="#nos-solutions">
+      <div class="arrow-link">
         <img src="../assets/arrow.svg" alt="arrow-logo">
-      </a>
-    </div>
+      </div>
+    </a>
   </div>
 
 </template>
@@ -65,7 +65,16 @@ img {
 }
 @media (max-width: 767px) {
   #first-title{
-    padding-top: 22%;
+    padding-top: 30%;
+  }
+  h1 {
+    font-size: 8vh;
+  }
+  #subtitle {
+    font-size: 5vh;
+  }
+  .arrow-link {
+    display: none;
   }
 }
 </style>
