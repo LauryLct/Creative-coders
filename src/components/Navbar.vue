@@ -18,13 +18,13 @@
             <a class="nav-link" href="#nos-solutions">Nos solutions</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-technologies">Nos technologies</a>
-          </li>
-          <li class="nav-item m-1">
             <a class="nav-link" href="#nos-tarifs">Nos tarifs</a>
           </li>
           <li class="nav-item m-1">
             <a class="nav-link" href="#a-propos">À propos</a>
+          </li>
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#nos-technologies">Nos technologies</a>
           </li>
           <li class="nav-item m-1">
             <a class="nav-link" href="#nous-contacter">Nous Contacter</a>
@@ -39,13 +39,13 @@
             <a class="nav-link" href="#nos-solutions">Nos solutions</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-technologies">Nos technologies</a>
-          </li>
-          <li class="nav-item m-1">
             <a class="nav-link" href="#nos-tarifs">Nos tarifs</a>
           </li>
           <li class="nav-item m-1">
             <a class="nav-link" href="#a-propos">À propos</a>
+          </li>
+          <li class="nav-item m-1">
+            <a class="nav-link" href="#nos-technologies">Nos technologies</a>
           </li>
           <li class="nav-item m-1">
             <a class="nav-link" href="#nous-contacter">Nous Contacter</a>

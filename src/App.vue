@@ -3,9 +3,9 @@
   <Header/>
   <div class="container">
     <OurSolutions/>
-    <OurTechnos/>
     <OurPrice/>
     <WhoWeAre/>
+    <OurTechnos/>
     <ContactUs/>
   </div>
   <Footer/>
