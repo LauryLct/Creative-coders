@@ -20,19 +20,19 @@
       </div>
     </div>
     <div class="row">
-      <div class="col p-4 m-3">
+      <div class="col p-2 m-3">
         <h3>PostgreSQL</h3>
         <img src="../assets/technologie/postgresql.png" alt="PostgreSQL">
       </div>
-      <div class="col p-4 m-3">
+      <div class="col p-2 m-3">
         <h3>Redis</h3>
         <img src="../assets/technologie/redis.png" alt="redis">
       </div>
-      <div class="col p-4 m-3">
+      <div class="col p-3 m-3">
         <h3>Ruby on Rails</h3>
         <img src="../assets/technologie/rails.png" alt="rails">
       </div>
-      <div class="col p-3 m-3">
+      <div class="col p-2 m-3">
         <h3>VueJS</h3>
         <img src="../assets/technologie/vuejs.png" alt="VueJS">
       </div>
