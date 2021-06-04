@@ -73,7 +73,7 @@ export default {
 
 <style scoped>
 img {
-  width: 20px;
+  width: 30px;
 }
 
 .app{
@@ -93,10 +93,11 @@ img {
   margin-right: 10px;
 }
 .navbar-creative .navbar-brand img {
-  width: 60px;
+  width: 100px;
 }
 .navbar-logo {
   padding-left: 20px;
+  margin-left: 10px;
 }
 .menu {
   margin: 20px;
