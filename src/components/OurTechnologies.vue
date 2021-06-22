@@ -1,6 +1,6 @@
 <template>
   <div class="our-technos mt-3" id="nos-technologies">
-    <h2>Nos technologies</h2>
+    <h2>Les technologies utilisées</h2>
     <div class="row">
       <div class="col-sm-12 col-md p-3 m-3">
         <h3>HTML</h3>

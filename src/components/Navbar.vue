@@ -15,19 +15,19 @@
         <img src="../assets/close.svg" alt="close-logo">
 				<ul class="navbar-nav mr-auto">
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-solutions">Nos solutions</a>
+            <a class="nav-link" href="#nos-solutions">Mess solutions</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-tarifs">Nos tarifs</a>
+            <a class="nav-link" href="#nos-engagements">Mes engagements</a>
           </li>
           <li class="nav-item m-1">
             <a class="nav-link" href="#a-propos">À propos</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-technologies">Nos technologies</a>
+            <a class="nav-link" href="#nos-technologies">Mes technologies</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nous-contacter">Nous Contacter</a>
+            <a class="nav-link" href="#nous-contacter">Me Contacter</a>
           </li>
       </ul>
 			</div>
@@ -36,19 +36,19 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-solutions">Nos solutions</a>
+            <a class="nav-link" href="#nos-solutions">Mes solutions</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-tarifs">Nos tarifs</a>
+            <a class="nav-link" href="#nos-engagements">Mes engagements</a>
           </li>
           <li class="nav-item m-1">
             <a class="nav-link" href="#a-propos">À propos</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-technologies">Nos technologies</a>
+            <a class="nav-link" href="#nos-technologies">Les technologies</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nous-contacter">Nous Contacter</a>
+            <a class="nav-link" href="#nous-contacter">Me Contacter</a>
           </li>
       </ul>
     </div>
