@@ -16,8 +16,8 @@
                 <p>
                     Je réalise des projets de développement web, que ce soit sur des projets de sites vitrines, 
                     des sites e-commerce, ou des projets spécifiques à vos besoins.
-                    Si vous souhaitez travailler avec une personne passionnée, qui aime réellement ce qu'elle fait,
-                    contactez-moi.
+                    Si vous souhaitez travailler avec une personne passionnée, qui aime sincérement ce qu'elle fait,
+                    <a href="#nous-contacter">contactez-moi</a>.
                 </p>
             </div>
         </div>
@@ -30,3 +30,10 @@ export default ({
     name: 'WhoWeAre',
 })
 </script>
+
+<style scoped>
+a {
+    text-decoration: none;
+    color: #4599DE;
+}
+</style>
