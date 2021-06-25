@@ -2,7 +2,7 @@
   <div class="navbar navbar-expand-sm navbar-light navbar-creative">
     <div class="navbar-logo">
       <a class="navbar-brand d-flex align-items-center mr-1" href="#">
-        <img src="../assets/logo-creative-coders.svg" />
+        <img src="../assets/logo-creative-coders.svg" alt="logo creative coders"/>
       </a>
     </div>
     <div>

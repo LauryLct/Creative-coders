@@ -3,7 +3,7 @@
 <h2 id="nos-engagements">Mes engagements</h2>
 
 <div class="card-product p-1 mt-4 mb-4">
-  <img class="d-none d-lg-block" src="../assets/card/click.svg" />
+  <img class="d-none d-lg-block" src="../assets/card/click.svg" alt="logo click"/>
   <div class="card-product-infos">
     <h2 class='card-title'>Conception web</h2>
     <p>
@@ -24,11 +24,11 @@
 
       </p>
     </div>
-    <img class="d-none d-lg-block" id="img-reverse" src="../assets/card/www.svg" />
+    <img class="d-none d-lg-block" id="img-reverse" src="../assets/card/www.svg" alt="logo www"/>
   </div>
 </div>
 <div class="card-product p-1 m-3">
-  <img class="d-none d-lg-block" src="../assets/card/good.svg" />
+  <img class="d-none d-lg-block" src="../assets/card/good.svg" alt="logo good"/>
   <div class="card-product-infos">
     <h2 class='card-title'>Charte graphique</h2>
     <p>
@@ -49,7 +49,7 @@
 
       </p>
     </div>
-    <img class="d-none d-lg-block" id="img-reverse" src="../assets/card/maintenance.svg" />
+    <img class="d-none d-lg-block" id="img-reverse" src="../assets/card/maintenance.svg" alt="logo maintenance"/>
   </div>
 </div>
 
