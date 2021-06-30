@@ -16,7 +16,7 @@
         </p>
       </div>
       <div class="col-md images-solutions">
-        <img class="responsive-image" src="../assets/responsive-img.png" alt="test">
+        <img class="responsive-image" src="../assets/responsive-img.png" alt="image responsive">
       </div>
 
     </div>

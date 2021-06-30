@@ -3,7 +3,7 @@
   <Header/>
   <div class="container">
     <OurSolutions/>
-    <OurPrice/>
+    <OurEngagements/>
     <WhoWeAre/>
     <OurTechnos/>
     <ContactUs/>
@@ -16,7 +16,7 @@ import Navbar from './components/Navbar.vue'
 import Header from './components/Header.vue'
 import OurSolutions from './components/OurSolutions.vue'
 import OurTechnos from './components/OurTechnologies.vue'
-import OurPrice from './components/OurPrice.vue'
+import OurEngagements from './components/OurEngagements.vue'
 import ContactUs from './components/ContactUs.vue'
 import Footer from './components/Footer.vue'
 import WhoWeAre from './components/WhoWeAre.vue'
@@ -28,7 +28,7 @@ export default {
     Header,
     OurSolutions,
     OurTechnos,
-    OurPrice,
+    OurEngagements,
     WhoWeAre,
     ContactUs,
     Footer

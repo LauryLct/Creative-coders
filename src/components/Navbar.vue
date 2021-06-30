@@ -2,7 +2,7 @@
   <div class="navbar navbar-expand-sm navbar-light navbar-creative">
     <div class="navbar-logo">
       <a class="navbar-brand d-flex align-items-center mr-1" href="#">
-        <img src="../assets/logo-creative-coders.svg" />
+        <img src="../assets/logo-creative-coders.svg" alt="logo creative coders"/>
       </a>
     </div>
     <div>
@@ -15,19 +15,19 @@
         <img src="../assets/close.svg" alt="close-logo">
 				<ul class="navbar-nav mr-auto">
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-solutions">Mes solutions</a>
+            <a class="nav-link" href="#nos-solutions">Nos solutions</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-engagements">Mes engagements</a>
+            <a class="nav-link" href="#nos-engagements">Nos engagements</a>
           </li>
           <li class="nav-item m-1">
             <a class="nav-link" href="#a-propos">À propos</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-technologies">Mes technologies</a>
+            <a class="nav-link" href="#nos-technologies">Nos technologies</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nous-contacter">Me Contacter</a>
+            <a class="nav-link" href="#nous-contacter">Nous contacter</a>
           </li>
       </ul>
 			</div>
@@ -36,19 +36,19 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-solutions">Mes solutions</a>
+            <a class="nav-link" href="#nos-solutions">Nos solutions</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-engagements">Mes engagements</a>
+            <a class="nav-link" href="#nos-engagements">Nos engagements</a>
           </li>
           <li class="nav-item m-1">
             <a class="nav-link" href="#a-propos">À propos</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nos-technologies">Les technologies</a>
+            <a class="nav-link" href="#nos-technologies">Nos technologies</a>
           </li>
           <li class="nav-item m-1">
-            <a class="nav-link" href="#nous-contacter">Me Contacter</a>
+            <a class="nav-link" href="#nous-contacter">Nous contacter</a>
           </li>
       </ul>
     </div>
