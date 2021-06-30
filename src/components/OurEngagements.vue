@@ -1,6 +1,6 @@
 <template>
 
-<h2 id="nos-engagements">Mes engagements</h2>
+<h2 id="nos-engagements">Nos engagements</h2>
 
 <div class="card-product p-1 mt-4 mb-4">
   <img class="d-none d-lg-block" src="../assets/card/click.svg" alt="logo click"/>
