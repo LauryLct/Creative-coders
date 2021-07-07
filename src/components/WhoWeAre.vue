@@ -2,7 +2,7 @@
     <div class="Who-we-are" id="a-propos">
         <h2>À propos</h2>
         <div class="row">
-            <div class="col-sm-12 col-md p-3 m-1">
+            <div class="col-sm-12 col-md p-3 m-2 size-content">
                 <h3 class="p-2">Qui suis-je?</h3>
                 <p>
                     Je suis Laury Lecaut. Issu d'une formation juridique à la base, 
@@ -11,7 +11,7 @@
                     J'ai fondé Créative Coders pour me permettre de continuer à mettre mes compétences au service des entreprises.
                 </p>
             </div>
-            <div class="col-sm-12 col-md p-3 m-1">
+            <div class="col-sm-12 col-md p-3 m-2 size-content">
                 <h3 class="p-2">Pourquoi Créative Coders?</h3>
                 <p>
                     Je réalise des projets de développement web, que ce soit sur des projets de sites vitrines, 

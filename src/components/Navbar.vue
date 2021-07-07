@@ -5,9 +5,9 @@
         <img src="../assets/logo-creative-coders.svg" alt="logo creative coders"/>
       </a>
     </div>
-    <div>
+    <div style="margin-right:10px">
       <button v-on:click='toggleShow'
-              class="navbar-toggler"
+              class="navbar-toggler mr-1"
               type="button">
         <span class="navbar-toggler-icon"></span>
       </button>
