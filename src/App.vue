@@ -51,4 +51,7 @@ h2{
   padding: 6rem 0 6rem 0;
   font-size: 40px;
 }
+.size-content {
+  width: -moz-available;
+}
 </style>
